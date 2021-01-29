@@ -70,6 +70,6 @@ function mouseDragged(){
 
 }
 function mouseReleased(){
-  Stone1.fly();
+  stone1.fly();
 
 }
