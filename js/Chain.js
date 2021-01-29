@@ -3,8 +3,8 @@ class Chain {
         constructor(bodyA,pointB)
     {
         var options={
-    lenght:0.9,
-    stiffness:0.2,
+    lenght:10,
+    stiffness:0.04,
     bodyA:bodyA,
     pointB:pointB
     
