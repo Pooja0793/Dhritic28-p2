@@ -29,7 +29,7 @@ function setup() {
 	mango7=new mango(1098,201,30);
 	mango8=new mango(1064,47,30);
 mango9=new mango(1171,130,30);
-stone1=new Stone(242,307,60,2);
+stone1=new Stone(242,307,40);
 //=new Stone(242,310,25,29);
 	treeObj=new tree(1050,580);
   groundObject=new ground(width/2,600,width,20);
