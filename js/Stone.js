@@ -16,11 +16,11 @@ class  Stone{
       imageMode(CENTER);
       push()
       
-			translate(242,390);
+    translate(242,390);
     rectMode(CENTER);
     fill (255,0,255);
     rect(2,0,this.width,this.height);
-    image(this.image, 0,this.width, this.height)
+    image(this.image,0, 0,this.width, this.height)
     pop ();
     }
 }
