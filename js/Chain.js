@@ -1,11 +1,11 @@
 class Chain {
 
-        constructor(BodyA,pointB)
+        constructor(bodyA,pointB)
     {
         var options={
     lenght:0.9,
     stiffness:0.2,
-    bodyA:BodyA,
+    bodyA:bodyA,
     pointB:pointB
     
         }
